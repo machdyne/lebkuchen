@@ -2,9 +2,11 @@
 
 Lebkuchen is an FPGA computer based on the GateMate A1.
 
+![Lebkuchen](https://github.com/machdyne/lebkuchen/blob/690dc512b2f4a64e544b0b9bf45e46320b76bb57/lebkuchen.png)
+
 This repo contains schematics, PCB layouts, pinouts, a 3D-printable case, example gateware and documentation.
 
-Find more information on the [Lebkuchen product page](https://machdyne.com/product/kolsch-computer/).
+Find more information on the [Lebkuchen product page](https://machdyne.com/product/lebkuchen-computer/).
 
 ## Programming Lebkuchen 
 
